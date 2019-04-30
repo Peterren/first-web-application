@@ -13,5 +13,8 @@ Your Todos are
 </c:forEach>
 </ol>
 </div>
+<form action = "/todo.do" method="post">
+	<input type="text" name="todo"><input type="submit" value="Add"/>
+</form>
 </body>
 </html>
