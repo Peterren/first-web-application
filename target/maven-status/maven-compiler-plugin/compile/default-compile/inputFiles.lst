@@ -3,5 +3,6 @@
 /Users/peterren/eclipse-workspace/test-maven/first-web-application/src/main/java/com/in28minutes/todo/Todo.java
 /Users/peterren/eclipse-workspace/test-maven/first-web-application/src/main/java/com/in28minutes/todo/TodoService.java
 /Users/peterren/eclipse-workspace/test-maven/first-web-application/src/main/java/com/in28minutes/login/LoginServlet.java
+/Users/peterren/eclipse-workspace/test-maven/first-web-application/src/main/java/com/in28minutes/filter/LoginRequiredFilter.java
 /Users/peterren/eclipse-workspace/test-maven/first-web-application/src/main/java/com/in28minutes/todo/DeleteTodoServlet.java
 /Users/peterren/eclipse-workspace/test-maven/first-web-application/src/main/java/com/in28minutes/todo/TodoServlet.java
