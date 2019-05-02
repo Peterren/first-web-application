@@ -86,7 +86,7 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\n");
       out.write("\t\t<ul class=\"nav navbar-nav\">\n");
       out.write("\t\t\t<li class=\"active\"><a href=\"#\">Home</a></li>\n");
-      out.write("\t\t\t<li><a href=\"/todo.do\">Todos</a></li>\n");
+      out.write("\t\t\t<li><a href=\"/list-todos.do\">Todos</a></li>\n");
       out.write("\t\t\t<li><a href=\"http://www.in28minutes.com\">In28Minutes</a></li>\n");
       out.write("\t\t</ul>\n");
       out.write("\n");
